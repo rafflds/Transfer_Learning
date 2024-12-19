@@ -30,6 +30,9 @@ A acurácia do modelo treinado pode variar dependendo do tamanho e qualidade do 
 
 ![image](https://github.com/user-attachments/assets/16afd4a4-2797-4199-b640-36703e50b25c)
 
+![image](https://github.com/user-attachments/assets/a55531b3-6853-4404-8f6f-673d13b186d3)
+
+
 
 ## ✍️ Contribuições
 
