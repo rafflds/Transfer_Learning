@@ -7,7 +7,7 @@ O projeto consiste em aplicar o método de Transfer Learning em uma rede de Deep
 1.  **Clone o repositório:**
 
     ```bash
-    (https://github.com/rafflds/Transfer_Learning.git)
+    https://github.com/rafflds/Transfer_Learning.git
     cd NOME-DO-REPOSITORIO
     ```
 2.  **Prepare o seu dataset:**
@@ -28,7 +28,8 @@ O projeto consiste em aplicar o método de Transfer Learning em uma rede de Deep
 
 A acurácia do modelo treinado pode variar dependendo do tamanho e qualidade do dataset, bem como da arquitetura do modelo e dos hiperparâmetros utilizados. Você poderá acompanhar a evolução da acurácia e da função de perda por meio dos gráficos gerados durante o treinamento.
 
-_**[Adicione aqui alguns resultados ou exemplos visuais do seu projeto (ex: gráficos de acurácia, exemplos de classificações bem-sucedidas, etc.). Pode ser uma pequena tabela ou algumas imagens.]**_
+![image](https://github.com/user-attachments/assets/16afd4a4-2797-4199-b640-36703e50b25c)
+
 
 ## ✍️ Contribuições
 
@@ -46,8 +47,8 @@ Este projeto é licenciado sob a [Licença MIT](https://github.com/SEU-USUARIO/N
 
 ## 📧 Contato
 
-*   **Seu Nome:**
-*   **Seu Email:**
+*   **Seu Nome: Rafael**
+*   **Seu Email:87arruda@gmail.com**
 *   **Seu LinkedIn (opcional):**
 
 ---
