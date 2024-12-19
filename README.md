@@ -7,7 +7,7 @@ O projeto consiste em aplicar o método de Transfer Learning em uma rede de Deep
 1.  **Clone o repositório:**
 
     ```bash
-    git clone https://github.com/SEU-USUARIO/NOME-DO-REPOSITORIO.git](https://github.com/rafflds/Transfer_Learning.git)
+    (https://github.com/rafflds/Transfer_Learning.git)
     cd NOME-DO-REPOSITORIO
     ```
 2.  **Prepare o seu dataset:**
